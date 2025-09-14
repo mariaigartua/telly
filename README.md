@@ -1,4 +1,6 @@
-# 🗣 Telly - Autonomous Access for Academic Spaces
+# telly - Autonomous Access for Academic Spaces
+
+![telly logo](./assets/telly-demo.png)
 
 [![WCAG 2.2 Compliant](https://img.shields.io/badge/WCAG-2.2%20AA-green)](https://www.w3.org/WAI/WCAG22/quickref/)
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react)](https://reactjs.org/)
