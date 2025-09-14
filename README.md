@@ -1,7 +1,6 @@
 # 🗣 Telly - Autonomous Access for Academic Spaces
 
 [![WCAG 2.2 Compliant](https://img.shields.io/badge/WCAG-2.2%20AA-green)](https://www.w3.org/WAI/WCAG22/quickref/)
-[![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-Wispr%20Flow-blue)](https://wispr.ai/)
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react)](https://reactjs.org/)
 
 ## 🔦 The Problem
