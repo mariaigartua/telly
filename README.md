@@ -28,7 +28,7 @@ In dynamic educational environments like research conferences, blind and visuall
 
 ## 🚀 Live Demo
 
-[**Try Telly Now →**](https://v0-telly-cpqfj26bx-correoparamisfakes-2206s-projects.vercel.app/) *(Use your phone)*
+[**Try Telly Now !**](https://v0-telly-cpqfj26bx-correoparamisfakes-2206s-projects.vercel.app/) *(Use your phone)*
 
 ### Accessibility Improvements
 - **10x faster** content discovery for visually impaired users
