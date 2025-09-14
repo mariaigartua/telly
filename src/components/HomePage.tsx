@@ -8,7 +8,7 @@ interface HomePageProps {
 
 export const HomePage = ({ onNavigate }: HomePageProps) => {
   return (
-    <div className="min-h-screen bg-background flex flex-col items-center justify-center p-6">
+    <div className="min-h-screen bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 text-white p-6">
       {/* Logo/Title */}
       <div className="text-center mb-12">
         <h1 className="text-3xl font-bold text-foreground mb-3">
